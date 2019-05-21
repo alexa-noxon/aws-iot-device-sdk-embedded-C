@@ -1,5 +1,5 @@
 # AWS IoT Device SDK C v4.0.0 Beta
-
+:)
 **[Link to API documentation](https://docs.aws.amazon.com/freertos/latest/lib-ref/html3/main/index.html)**
 
 [![Build Status](https://travis-ci.org/aws/aws-iot-device-sdk-embedded-C.svg?branch=v4_beta)](https://travis-ci.org/aws/aws-iot-device-sdk-embedded-C)
